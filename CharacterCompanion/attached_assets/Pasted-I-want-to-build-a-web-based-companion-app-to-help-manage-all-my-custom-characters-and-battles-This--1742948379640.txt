@@ -1,0 +1,99 @@
+I want to build a web-based companion app to help manage all my custom characters and battles. This will not be a full game, but a tool to help me and others play, track, and manage battles in my custom game system.
+
+✏️ I want to be in full control:
+I will add the characters myself (not preloaded ones).
+
+I will type in and edit their stats, abilities, and passives.
+
+I want to use this app so I don’t have to print paper or keep rewriting stuff.
+
+✅ Main Features I Need:
+1. Character Editor
+A section where I can:
+
+Create new characters.
+
+Give each character a name.
+
+Set their stats:
+
+HP
+
+Speed
+
+AC
+
+Initiative
+
+Add and remove abilities (up to 7 per character).
+
+Each ability can include:
+
+Name
+
+Description
+
+Damage
+
+Range
+
+Special effects
+
+Mark certain abilities as (Passive).
+
+2. Character List / Browser
+A way to browse all saved characters.
+
+Click on a character to:
+
+View their full sheet (stats + abilities).
+
+Edit them anytime.
+
+Delete characters if I need to.
+
+Optional: Tag or sort characters by type (e.g. “Ghost”, “Mario”, “Tank”, etc.)
+
+3. Team Builder
+A section where I can:
+
+Pick characters from the character list to add to a team.
+
+Create and name custom teams.
+
+View and save the teams I build.
+
+Optional: Let each team be 3–6 characters (or any number I want).
+
+4. Battle Tracker
+Once I pick a team, I want to enter a battle layout:
+
+Each team member has:
+
+HP tracker (click +/– or type in)
+
+Status condition tracker (e.g. stunned, poisoned — can type them in)
+
+Turn order number
+
+The opponent team also has their side of the battlefield with the same features.
+
+It should be easy to update during play.
+
+5. Dice Roller
+A built-in tool where I can roll common dice:
+
+d4, d6, d8, d10, d12, d20
+
+Press a button to roll the dice, and it shows the result instantly.
+
+Optional: Add multiple dice (like 2d6 or 1d4 + 1d8).
+
+🛠️ What I’m Using This For:
+To keep track of character HP, turns, and statuses in real-time during battle.
+
+To build and customize all my characters for my own custom game system.
+
+To have a super easy way to track battles without paper or printing.
+
+To make it easier to play with friends and always have the characters ready.
